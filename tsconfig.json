@@ -9,6 +9,7 @@
             "dom",
             "es2015"
         ],
+        // "checkJs": false,
         "jsx": "react-jsx"
     }
 }

@@ -5,9 +5,12 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@types/styled-components": "5.1.25",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-scripts": "4.0.1"
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.1",
+    "styled-components": "5.2.1"
   },
   "devDependencies": {
     "@types/react": "17.0.0",

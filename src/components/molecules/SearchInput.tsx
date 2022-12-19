@@ -9,7 +9,7 @@ export const SearchInput = memo(() => {
     <SContainer>
       <Input placeholder="検索条件を入力" />
       <SButtonWrapper>
-        <PrimaryButton>検索</PrimaryButton>
+        <PrimaryButton>Search</PrimaryButton>
       </SButtonWrapper>
     </SContainer>
   );
